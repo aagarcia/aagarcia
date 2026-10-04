@@ -76,4 +76,5 @@ Guayaquil, Ecuador · Docente universitario
 Ayudo a empresas medianas a **conectar Claude de forma segura a sus propios datos** (MCP) y a capacitar equipos en **Claude Code y arquitectura de servicios**.
 
 📫 Escríbeme: alex.garcia.arias@gmail.com o esagaweb@gmail.com
+
 🔗 LinkedIn: www.linkedin.com/in/aagarciaa
