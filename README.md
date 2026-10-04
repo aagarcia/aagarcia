@@ -2,8 +2,8 @@
 
 # Alex García Arias
 
-**Ingeniero de Software Senior · .NET · Oracle · Azure · Claude Code & MCP**
-Guayaquil, Ecuador 🇪🇨 · Docente universitario
+**Ingeniero de Software Senior · .NET · Oracle · Azure · Claude Code & MCP**<br>
+Guayaquil, Ecuador · Docente universitario
 
 *Senior software engineer (20+ years). I build layered .NET services, Oracle/SQL data solutions, cloud automation on Azure, and AI integrations with Claude / MCP.*
 
