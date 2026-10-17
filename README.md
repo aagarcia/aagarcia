@@ -27,7 +27,6 @@ Guayaquil, Ecuador · Docente universitario
 
 | Proyecto | Qué es |
 |---|---|
-| [**dotnet-layered-service-kit**](https://github.com/aagarcia/dotnet-layered-service-kit) | Plugin de Claude Code (ES/EN) para construir y auditar servicios .NET 10 en capas: guía, plantillas y agente revisor de arquitectura. |
 | [**Esagaweb.Maui.Android**](https://github.com/aagarcia/esagaweb.maui.android) | Librería Material 3 para .NET MAUI en Android: 19 controles, miles de íconos, tema claro/oscuro y diseño responsivo. |
 
 ## Stack
